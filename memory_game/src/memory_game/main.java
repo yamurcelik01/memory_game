@@ -9,21 +9,21 @@ public class main {
 
 		
 		 cards[0][0] = new card('A');
-		 cards[0][1] = new card('A');
-		 cards[0][2] = new card('A');
-		 cards[0][3] = new card('A');
-		 cards[1][0] = new card('A');
-		 cards[1][1] = new card('A');
-		 cards[1][2] = new card('A');
-		 cards[1][3] = new card('A');
-		 cards[2][0] = new card('A');
-		 cards[2][1] = new card('A');
-		 cards[2][2] = new card('A');
-		 cards[2][3] = new card('A');
-		 cards[3][0] = new card('A');
+		 cards[0][1] = new card('B');
+		 cards[0][2] = new card('C');
+		 cards[0][3] = new card('E');
+		 cards[1][0] = new card('D');
+		 cards[1][1] = new card('F');
+		 cards[1][2] = new card('G');
+		 cards[1][3] = new card('G');
+		 cards[2][0] = new card('H');
+		 cards[2][1] = new card('F');
+		 cards[2][2] = new card('E');
+		 cards[2][3] = new card('H');
+		 cards[3][0] = new card('B');
 		 cards[3][1] = new card('A');
-		 cards[3][2] = new card('A');
-		 cards[3][3] = new card('A');
+		 cards[3][2] = new card('C');
+		 cards[3][3] = new card('D');
 		
 		 //game_board();
 		 while (game_over()== false) {
